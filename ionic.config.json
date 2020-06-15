@@ -1,0 +1,7 @@
+{
+  "name": "ccr_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
